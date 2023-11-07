@@ -1,0 +1,13 @@
+.container {
+    width: 500px;
+    height: 200px;
+    background-color: rgb(246, 201, 182);
+    text-align: center;
+
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
